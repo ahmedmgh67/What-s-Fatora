@@ -1,0 +1,79 @@
+[
+  {
+    "restaurant_cuisine_id": null,
+    "cuisine_id": 1,
+    "restaurant_id": 3,
+    "created_by": null,
+    "created_date": null,
+    "updated_by": null,
+    "updated_date": null,
+    "is_active": null,
+    "name": "Italian"
+  },
+  {
+    "restaurant_cuisine_id": null,
+    "cuisine_id": 2,
+    "restaurant_id": 3,
+    "created_by": null,
+    "created_date": null,
+    "updated_by": null,
+    "updated_date": null,
+    "is_active": null,
+    "name": "French"
+  },
+  {
+    "restaurant_cuisine_id": null,
+    "cuisine_id": 3,
+    "restaurant_id": 3,
+    "created_by": null,
+    "created_date": null,
+    "updated_by": null,
+    "updated_date": null,
+    "is_active": null,
+    "name": "Spanish"
+  },
+  {
+    "restaurant_cuisine_id": null,
+    "cuisine_id": 4,
+    "restaurant_id": 3,
+    "created_by": null,
+    "created_date": null,
+    "updated_by": null,
+    "updated_date": null,
+    "is_active": null,
+    "name": "Chinese"
+  },
+  {
+    "restaurant_cuisine_id": null,
+    "cuisine_id": 5,
+    "restaurant_id": 3,
+    "created_by": null,
+    "created_date": null,
+    "updated_by": null,
+    "updated_date": null,
+    "is_active": null,
+    "name": "Indian"
+  },
+  {
+    "restaurant_cuisine_id": null,
+    "cuisine_id": 6,
+    "restaurant_id": 3,
+    "created_by": null,
+    "created_date": null,
+    "updated_by": null,
+    "updated_date": null,
+    "is_active": null,
+    "name": "Japanese"
+  },
+  {
+    "restaurant_cuisine_id": null,
+    "cuisine_id": 7,
+    "restaurant_id": 3,
+    "created_by": null,
+    "created_date": null,
+    "updated_by": null,
+    "updated_date": null,
+    "is_active": null,
+    "name": "Bahrain"
+  }
+]

@@ -1,0 +1,17 @@
+package com.android.volley;
+
+public abstract interface RetryPolicy
+{
+  public abstract int getCurrentRetryCount();
+  
+  public abstract int getCurrentTimeout();
+  
+  public abstract void retry(VolleyError paramVolleyError)
+    throws VolleyError;
+}
+
+
+/* Location:              H:\As A Bussines Man\confedince\App Dev Department\What's Fatora\Tawseel APK\Client\dex2jar-2.0\t-dex2jar.jar!\com\android\volley\RetryPolicy.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

@@ -1,0 +1,14 @@
+package io.fabric.sdk.android;
+
+import java.util.Collection;
+
+public abstract interface KitGroup
+{
+  public abstract Collection<? extends Kit> getKits();
+}
+
+
+/* Location:              H:\As A Bussines Man\confedince\App Dev Department\What's Fatora\Tawseel APK\Client\dex2jar-2.0\t-dex2jar.jar!\io\fabric\sdk\android\KitGroup.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

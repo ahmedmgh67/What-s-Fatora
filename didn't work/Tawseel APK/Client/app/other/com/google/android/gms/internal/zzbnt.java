@@ -1,0 +1,20 @@
+package com.google.android.gms.internal;
+
+public abstract interface zzbnt<T>
+{
+  public static final zzbnt<Object> zzcfv = new zzbnt()
+  {
+    public boolean zzaq(Object paramAnonymousObject)
+    {
+      return true;
+    }
+  };
+  
+  public abstract boolean zzaq(T paramT);
+}
+
+
+/* Location:              H:\As A Bussines Man\confedince\App Dev Department\What's Fatora\Tawseel APK\Client\dex2jar-2.0\t-dex2jar.jar!\com\google\android\gms\internal\zzbnt.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

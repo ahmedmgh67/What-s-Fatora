@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Dict>
+    <Country><Name>Afghanistan</Name>
+        <Code>+93</Code></Country>
+    <Country><Name>Albania</Name>
+        <Code>+355</Code></Country>
+    <Country><Name>Algeria</Name>
+        <Code>+213</Code></Country>
+    <Country><Name>Angola</Name>
+        <Code>+244</Code></Country>
+    <Country><Name>Anguilla</Name>
+        <Code>+1 264</Code></Country>
+    <Country><Name>Antigua and Barbuda</Name>
+        <Code>+1 268</Code></Country>
+    <Country><Name>Argentina</Name>
+        <Code>+54</Code></Country>
+    <Country><Name>Armenia</Name>
+        <Code>+374</Code></Country>
+    <Country><Name>Aruba</Name>
+        <Code>+297</Code></Country>
+    <Country><Name>Australia</Name>
+        <Code>+61</Code></Country>
+    <Country><Name>Austria</Name>
+        <Code>+43</Code></Country>
+    <Country><Name>Azerbaijan</Name>
+        <Code>+994</Code></Country>
+    <Country><Name>Bahamas</Name>
+        <Code>+1 242</Code></Country>
+    <Country><Name>Bahrain</Name>
+        <Code>+973</Code></Country>
+    <Country><Name>Bangladesh</Name>
+        <Code>+880</Code></Country>
+    <Country><Name>Barbados</Name>
+        <Code>+1 246</Code></Country>
+    <Country><Name>Belarus</Name>
+        <Code>+375</Code></Country>
+    <Country><Name>Belgium</Name>
+        <Code>+32</Code></Country>
+    <Country><Name>Belize</Name>
+        <Code>+501</Code></Country>
+    <Country><Name>Benin</Name>
+        <Code>+229</Code></Country>
+    <Country><Name>Bhutan</Name>
+        <Code>+975</Code></Country>
+    <Country><Name>Bolivia</Name>
+        <Code>+591</Code></Country>
+    <Country><Name>Bosnia and Herzegovina</Name>
+        <Code>+387</Code></Country>
+    <Country><Name>Botswana</Name>
+        <Code>+267</Code></Country>
+    <Country><Name>Brazil</Name>
+        <Code>+55</Code></Country>
+    <Country><Name>Brunei Darussalam</Name>
+        <Code>+673</Code></Country>
+    <Country><Name>Bulgaria</Name>
+        <Code>+359</Code></Country>
+    <Country><Name>Burkina Faso</Name>
+        <Code>+226</Code></Country>
+    <Country><Name>Burundi</Name>
+        <Code>+257</Code></Country>
+    <Country><Name>Cambodia</Name>
+        <Code>+855</Code></Country>
+    <Country><Name>Cameroon</Name>
+        <Code>+237</Code></Country>
+    <Country><Name>Canada</Name>
+        <Code>+1</Code></Country>
+    <Country><Name>Cape Verde</Name>
+        <Code>+238</Code></Country>
+    <Country><Name>Cayman Islands</Name>
+        <Code>+1 345</Code></Country>
+    <Country><Name>Chad</Name>
+        <Code>+235</Code></Country>
+    <Country><Name>Chile</Name>
+        <Code>+56</Code></Country>
+    <Country><Name>China</Name>
+        <Code>+86</Code></Country>
+    <Country><Name>Colombia</Name>
+        <Code>+57</Code></Country>
+    <Country><Name>Comoros</Name>
+        <Code>+269</Code></Country>
+    <Country><Name>Costa Rica</Name>
+        <Code>+506</Code></Country>
+    <Country><Name>Croatia</Name>
+        <Code>+385</Code></Country>
+    <Country><Name>Cyprus</Name>
+        <Code>+357</Code></Country>
+    <Country><Name>Czech Republic</Name>
+        <Code>+420</Code></Country>
+    <Country><Name>Denmark</Name>
+        <Code>+45</Code></Country>
+    <Country><Name>Dominica</Name>
+        <Code>+1 767</Code></Country>
+    <Country><Name>Dominican Republic</Name>
+        <Code>+1 809</Code></Country>
+    <Country><Name>Dominican Republic 2</Name>
+        <Code>+1 829</Code></Country>
+    <Country><Name>Dominican Republic 3</Name>
+        <Code> +1 849</Code></Country>
+    <Country><Name>Ecuador</Name>
+        <Code>+593</Code></Country>
+    <Country><Name>Egypt</Name>
+        <Code>+20</Code></Country>
+    <Country><Name>El Salvador</Name>
+        <Code>+503</Code></Country>
+    <Country><Name>Equatorial Guinea</Name>
+        <Code>+240</Code></Country>
+    <Country><Name>Estonia</Name>
+        <Code>+372</Code></Country>
+    <Country><Name>Ethiopia</Name>
+        <Code>+251</Code></Country>
+    <Country><Name>Faroe Islands</Name>
+        <Code>+298</Code></Country>
+    <Country><Name>Fiji</Name>
+        <Code>+679</Code></Country>
+    <Country><Name>Finland</Name>
+        <Code>+358</Code></Country>
+    <Country><Name>France</Name>
+        <Code>+33</Code></Country>
+    <Country><Name>French Guiana</Name>
+        <Code>+594</Code></Country>
+    <Country><Name>French Polynesia</Name>
+        <Code>+689</Code></Country>
+    <Country><Name>Gabon</Name>
+        <Code>+241</Code></Country>
+    <Country><Name>Gambia</Name>
+        <Code>+220</Code></Country>
+    <Country><Name>Georgia</Name>
+        <Code>+995</Code></Country>
+    <Country><Name>Germany</Name>
+        <Code>+49</Code></Country>
+    <Country><Name>Ghana</Name>
+        <Code>+233</Code></Country>
+    <Country><Name>Gibraltar</Name>
+        <Code>+350</Code></Country>
+    <Country><Name>Greece</Name>
+        <Code>+30</Code></Country>
+    <Country><Name>Greenland</Name>
+        <Code>+299</Code></Country>
+    <Country><Name>Grenada</Name>
+        <Code>+1 473</Code></Country>
+    <Country><Name>Guatemala</Name>
+        <Code>+502</Code></Country>
+    <Country><Name>Guinea</Name>
+        <Code>+224</Code></Country>
+    <Country><Name>Guyana</Name>
+        <Code>+592</Code></Country>
+    <Country><Name>Haiti</Name>
+        <Code>+509</Code></Country>
+    <Country><Name>Honduras</Name>
+        <Code>+504</Code></Country>
+    <Country><Name>Hong Kong</Name>
+        <Code>+852</Code></Country>
+    <Country><Name>Hungary</Name>
+        <Code>+36</Code></Country>
+    <Country><Name>Iceland</Name>
+        <Code>+354</Code></Country>
+    <Country><Name>India</Name>
+        <Code>+91</Code></Country>
+    <Country><Name>Indonesia</Name>
+        <Code>+62</Code></Country>
+    <Country><Name>Iran</Name>
+        <Code>+98</Code></Country>
+    <Country><Name>Iraq</Name>
+        <Code>+964</Code></Country>
+    <Country><Name>Ireland</Name>
+        <Code>+353</Code></Country>
+    <Country><Name>Israel</Name>
+        <Code>+972</Code></Country>
+    <Country><Name>Italy</Name>
+        <Code>+39</Code></Country>
+    <Country><Name>Jamaica</Name>
+        <Code>+1 876</Code></Country>
+    <Country><Name>Japan</Name>
+        <Code>+81</Code></Country>
+    <Country><Name>Jordan</Name>
+        <Code>+962</Code></Country>
+    <Country><Name>Kazakhstan</Name>
+        <Code>+7 6</Code></Country>
+    <Country><Name>Kazakhstan 2</Name>
+        <Code>+7 7</Code></Country>
+    <Country><Name>Kazakhstan 3</Name>
+        <Code>+997</Code></Country>
+    <Country><Name>Kenya</Name>
+        <Code>+254</Code></Country>
+    <Country><Name>Korea, North</Name>
+        <Code>+850</Code></Country>
+    <Country><Name>Korea, South</Name>
+        <Code>+82</Code></Country>
+    <Country><Name>Kuwait</Name>
+        <Code>+965</Code></Country>
+    <Country><Name>Kyrgyzstan</Name>
+        <Code>+996</Code></Country>
+    <Country><Name>Laos</Name>
+        <Code>+856</Code></Country>
+    <Country><Name>Latvia</Name>
+        <Code>+371</Code></Country>
+    <Country><Name>Lebanon</Name>
+        <Code>+961</Code></Country>
+    <Country><Name>Lesotho</Name>
+        <Code>+266</Code></Country>
+    <Country><Name>Liberia</Name>
+        <Code>+231</Code></Country>
+    <Country><Name>Libya</Name>
+        <Code>+218</Code></Country>
+    <Country><Name>Liechtenstein</Name>
+        <Code>+423</Code></Country>
+    <Country><Name>Lithuania</Name>
+        <Code>+370</Code></Country>
+    <Country><Name>Luxembourg</Name>
+        <Code>+352</Code></Country>
+    <Country><Name>Macau</Name>
+        <Code>+853</Code></Country>
+    <Country><Name>Macedonia</Name>
+        <Code>+389</Code></Country>
+    <Country><Name>Madagascar</Name>
+        <Code>+261</Code></Country>
+    <Country><Name>Malawi</Name>
+        <Code>+265</Code></Country>
+    <Country><Name>Malaysia</Name>
+        <Code>+60</Code></Country>
+    <Country><Name>Maldives</Name>
+        <Code>+960</Code></Country>
+    <Country><Name>Mali</Name>
+        <Code>+223</Code></Country>
+    <Country><Name>Malta</Name>
+        <Code>+356</Code></Country>
+    <Country><Name>Martinique</Name>
+        <Code>+596</Code></Country>
+    <Country><Name>Mauritania</Name>
+        <Code>+222</Code></Country>
+    <Country><Name>Mauritius</Name>
+        <Code>+230</Code></Country>
+    <Country><Name>Mexico</Name>
+        <Code>+52</Code></Country>
+    <Country><Name>Monaco</Name>
+        <Code>+377</Code></Country>
+    <Country><Name>Mongolia</Name>
+        <Code>+976</Code></Country>
+    <Country><Name>Montenegro</Name>
+        <Code>+382</Code></Country>
+    <Country><Name>Montserrat</Name>
+        <Code>+1 664</Code></Country>
+    <Country><Name>Morocco</Name>
+        <Code>+212</Code></Country>
+    <Country><Name>Mozambique</Name>
+        <Code>+258</Code></Country>
+    <Country><Name>Namibia</Name>
+        <Code>+264</Code></Country>
+    <Country><Name>Nepal</Name>
+        <Code>+977</Code></Country>
+    <Country><Name>Netherlands</Name>
+        <Code>+31</Code></Country>
+    <Country><Name>New Caledonia</Name>
+        <Code>+687</Code></Country>
+    <Country><Name>New Zealand</Name>
+        <Code>+64</Code></Country>
+    <Country><Name>Niger</Name>
+        <Code>+227</Code></Country>
+    <Country><Name>Nigeria</Name>
+        <Code>+234</Code></Country>
+    <Country><Name>Norway</Name>
+        <Code>+47</Code></Country>
+    <Country><Name>Oman</Name>
+        <Code>+968</Code></Country>
+    <Country><Name>Pakistan</Name>
+        <Code>+92</Code></Country>
+    <Country><Name>Panama</Name>
+        <Code>+507</Code></Country>
+    <Country><Name>Paraguay</Name>
+        <Code>+595</Code></Country>
+    <Country><Name>Peru</Name>
+        <Code>+51</Code></Country>
+    <Country><Name>Philippines</Name>
+        <Code>+63</Code></Country>
+    <Country><Name>Poland</Name>
+        <Code>+48</Code></Country>
+    <Country><Name>Portugal</Name>
+        <Code>+351</Code></Country>
+    <Country><Name>Qatar</Name>
+        <Code>+974</Code></Country>
+    <Country><Name>Romania</Name>
+        <Code>+40</Code></Country>
+    <Country><Name>Russia</Name>
+        <Code>+7</Code></Country>
+    <Country><Name>Rwanda</Name>
+        <Code>+250</Code></Country>
+    <Country><Name>Saint Vincent and the Grenadines</Name>
+        <Code>+1 784</Code></Country>
+    <Country><Name>Saudi Arabia</Name>
+        <Code>+966</Code></Country>
+    <Country><Name>Senegal</Name>
+        <Code>+221</Code></Country>
+    <Country><Name>Serbia</Name>
+        <Code>+381</Code></Country>
+    <Country><Name>Seychelles</Name>
+        <Code>+248</Code></Country>
+    <Country><Name>Sierra Leone</Name>
+        <Code>+232</Code></Country>
+    <Country><Name>Singapore</Name>
+        <Code>+65</Code></Country>
+    <Country><Name>Slovakia</Name>
+        <Code>+421</Code></Country>
+    <Country><Name>Slovenia</Name>
+        <Code>+386</Code></Country>
+    <Country><Name>South Africa</Name>
+        <Code>+27</Code></Country>
+    <Country><Name>Spain</Name>
+        <Code>+34</Code></Country>
+    <Country><Name>Sri Lanka</Name>
+        <Code>+94</Code></Country>
+    <Country><Name>Sudan</Name>
+        <Code>+249</Code></Country>
+    <Country><Name>SuriName</Name>
+        <Code>+597</Code></Country>
+    <Country><Name>Swaziland</Name>
+        <Code>+268</Code></Country>
+    <Country><Name>Sweden</Name>
+        <Code>+46</Code></Country>
+    <Country><Name>Switzerland</Name>
+        <Code>+41</Code></Country>
+    <Country><Name>Syria</Name>
+        <Code>+963</Code></Country>
+    <Country><Name>Taiwan</Name>
+        <Code>+886</Code></Country>
+    <Country><Name>Tajikistan</Name>
+        <Code>+992</Code></Country>
+    <Country><Name>Tanzania</Name>
+        <Code>+255</Code></Country>
+    <Country><Name>Thailand</Name>
+        <Code>+66</Code></Country>
+    <Country><Name>Togo</Name>
+        <Code>+228</Code></Country>
+    <Country><Name>Trinidad and Tobago</Name>
+        <Code>+1 868</Code></Country>
+    <Country><Name>Tunisia</Name>
+        <Code>+216</Code></Country>
+    <Country><Name>TurCountry</Name>
+        <Code>+90</Code></Country>
+    <Country><Name>Turks and Caicos Islands</Name>
+        <Code>+1 649</Code></Country>
+    <Country><Name>Uganda</Name>
+        <Code>+256</Code></Country>
+    <Country><Name>Ukraine</Name>
+        <Code>+380</Code></Country>
+    <Country><Name>United Arab Emirates</Name>
+        <Code>+971</Code></Country>
+    <Country><Name>United Kingdom</Name>
+        <Code>+44</Code></Country>
+    <Country>
+        <Name>United States</Name>
+        <Code>+1</Code></Country>
+    <Country><Name>Uruguay</Name>
+        <Code>+598</Code></Country>
+    <Country><Name>Uzbekistan</Name>
+        <Code>+998</Code></Country>
+    <Country><Name>Venezuela</Name>
+        <Code>+58</Code></Country>
+    <Country><Name>Vietnam</Name>
+        <Code>+84</Code></Country>
+    <Country><Name>Yemen</Name>
+        <Code>+967</Code></Country>
+    <Country><Name>Zambia</Name>
+        <Code>+260</Code></Country>
+    <Country><Name>Zimbabwe</Name>
+        <Code>+263</Code></Country>
+</Dict>

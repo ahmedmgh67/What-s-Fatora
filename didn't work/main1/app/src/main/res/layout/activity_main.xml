@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+
+        <TableRow>
+
+        <Button
+            android:id="@+id/ele"
+            android:layout_width="50pt"
+            android:layout_height="50pt"
+            android:layout_margin="4pt"
+            android:text="@string/electronics"
+            android:textSize="13sp"
+            style="?android:attr/buttonBarButtonStyle"
+            />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="50pt"
+            android:layout_height="50pt"
+            android:layout_margin="4pt"
+            android:text="@string/button"
+            style="?android:attr/buttonBarButtonStyle"
+            />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="50pt"
+            android:layout_height="50pt"
+            android:layout_margin="4pt"
+            android:text="@string/button"
+            style="?android:attr/buttonBarButtonStyle"
+            />
+    </TableRow>
+
+
+
+
+
+        <TableRow>
+            <Button
+                android:id="@+id/veg"
+                android:layout_width="50pt"
+                android:layout_height="50pt"
+                android:layout_margin="4pt"
+                android:text="@string/vegetables"
+                style="?android:attr/buttonBarButtonStyle"
+                />
+
+            <Button
+                android:id="@+id/fru"
+                android:layout_width="50pt"
+                android:layout_height="50pt"
+                android:layout_margin="4pt"
+                android:text="@string/fruits"
+                style="?android:attr/buttonBarButtonStyle"
+                />
+
+            <Button
+                android:id="@+id/mea"
+                android:layout_width="50pt"
+                android:layout_height="50pt"
+                android:layout_margin="4pt"
+                android:text="@string/meat"
+                style="?android:attr/buttonBarButtonStyle"
+                />
+        </TableRow>
+
+    <RelativeLayout>
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/cart"
+            android:layout_width="267dp"
+            android:layout_height="267dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="61dp"
+            android:layout_marginEnd="41dp"
+            android:clickable="true"
+            android:focusable="true"
+            app:srcCompat="@android:drawable/ic_menu_help" />
+    </RelativeLayout>
+
+
+</TableLayout>
+

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "904573011776",
+    "firebase_url": "https://fatora-main1.firebaseio.com",
+    "project_id": "fatora-main1",
+    "storage_bucket": "fatora-main1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904573011776:android:4006b5b8a81908c7",
+        "android_client_info": {
+          "package_name": "com.confidence.whatsfatora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904573011776-p809p4tj27sdc0o1fnc5eit9kl9vhf61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.confidence.whatsfatora",
+            "certificate_hash": "c2bfe5377cc28646a963bf7e413ec4c56ef2d823"
+          }
+        },
+        {
+          "client_id": "904573011776-l13a5jnlrn8j9hgqsf10t38eibb7hgu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI2A4OALZbqSjez9eCmybv7iA1oDObrhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904573011776-l13a5jnlrn8j9hgqsf10t38eibb7hgu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
